@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.3rem;
+}
+
+.intro {
+    background-color: #072a2d;
+    color: white;
+    padding: 1em;
+    margin: 0 auto;
+}
+
+.parent {
+    width: 80%;
+    max-width: 600px;
+    margin: 0 100px;
+}
+
+.content {
+    width: 80%;
+}
+
+button {
+    background-color: #38cfd9;
+    color: #072a2d;
+    border-radius: 30px;
+    border: none;
+    width: 30%;
+    height: 30px;
+    padding: 0 10px;
+    cursor: pointer;
+    font-size: 1em;
+    margin: 10px 0px;
+}
